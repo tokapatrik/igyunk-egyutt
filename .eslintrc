@@ -1,0 +1,7 @@
+{
+    "plugins": ["styled-components"],
+    "rules": {
+        "styled-components/no-unused-styles": "error",
+        "styled-components/indentation": "off"
+    }
+}
